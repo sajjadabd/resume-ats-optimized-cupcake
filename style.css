@@ -226,7 +226,7 @@ div.rightSide {
   flex : 8;
   color : var(--text-color);
   padding : 20px;
-  
+  padding-top : 0;
 }
 
 div.leftSide {
